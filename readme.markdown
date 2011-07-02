@@ -7,5 +7,7 @@ Scripts
 ============
 The following is a list of the scripts I have created and a description of what each one does.
 
-== news.ycombinator.com.js ==
+news.ycombinator.com.js
+------------
+
 - Makes all links open in a new tab
